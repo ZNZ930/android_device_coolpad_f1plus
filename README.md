@@ -20,7 +20,3 @@ Dimensions | 141x 71.5 x 9.3 mm
 Display | 720 x 1280 pixels, 5.0 inches (~294 ppi pixel density)
 Rear Camera | 8 MP, f/2.2, 28mm, autofocus, LED flash
 Front Camera | 2 MP, 720p
-
-## Device picture
-
-![F1plus](https://product.pconline.com.cn/pdlib/579953_bigpicture9714196.html "CoolPad 8297_T01 in white")
