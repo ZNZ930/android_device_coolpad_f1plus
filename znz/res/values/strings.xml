@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dexclam</string>
+    <string name="cate_title">additional Settings</string>
+    <string name="dexclam_designal_title">wipe off</string>
+    <string name="dexclam_designal_summary">check to disable network status detection</string>
+    <string name="dexclam_resignal_title">restore</string>
+    <string name="dexclam_resignal_summary">check to detect network status</string>
+    <string name="main_enable">network status detected successfully</string>
+    <string name="main_noroot">did not get the ROOT</string>
+    <string name="main_disenable">network status disabled successfully</string>
+    <string name="prompt_title">remove the native network connection to display an x or exclamation point</string>
+    <string name="request_title">after modification, please turn off wifi and turn it on</string>
+</resources>

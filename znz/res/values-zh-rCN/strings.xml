@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dexclam</string>
+    <string name="cate_title">附加设置</string>
+    <string name="dexclam_designal_title">去除</string>
+    <string name="dexclam_designal_summary">选中即可禁用检测网络状态</string>
+    <string name="dexclam_resignal_title">还原</string>
+    <string name="dexclam_resignal_summary">选中即可检测网络状态</string>
+    <string name="main_enable">成功检测网络状态</string>
+    <string name="main_noroot">未获取ROOT</string>
+    <string name="main_disenable">成功禁用检测网络状态</string>
+    <string name="prompt_title">去除原生网络连接显示x或者惊叹号</string>
+    <string name="request_title">修改后请关闭wifi再打开</string>
+</resources>

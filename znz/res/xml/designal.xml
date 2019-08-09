@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/cate_title">
+        <Preference
+            android:key="designal"
+            android:title="@string/dexclam_designal_title"
+            android:summary="@string/dexclam_designal_summary" >
+        </Preference>
+        <Preference
+            android:key="resignal"
+            android:title="@string/dexclam_resignal_title"
+            android:summary="@string/dexclam_resignal_summary" >
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/prompt_title"/>
+    <PreferenceCategory android:title="@string/request_title"/>
+</PreferenceScreen>

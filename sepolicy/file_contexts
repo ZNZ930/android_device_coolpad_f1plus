@@ -1,0 +1,11 @@
+/dev/yl_acc_sensor                              u:object_r:sensors_device:s0
+/dev/yl_alsprox_sensor                          u:object_r:sensors_device:s0
+/sys/class/leds/red/blink                                           u:object_r:sysfs_leds:s0
+/sys/devices/soc.0/78ba000.i2c/i2c-6/6-0045/leds/red/blink          u:object_r:sysfs_leds:s0
+/sys/class/leds/red/brightness                                      u:object_r:sysfs_leds:s0
+/sys/devices/soc.0/78ba000.i2c/i2c-6/6-0045/leds/red/brightness     u:object_r:sysfs_leds:s0
+/sys/class/leds/green/brightness                                    u:object_r:sysfs_leds:s0
+/sys/devices/soc.0/78ba000.i2c/i2c-6/6-0045/leds/green/brightness   u:object_r:sysfs_leds:s0
+/sys/class/leds/blue/brightness                                     u:object_r:sysfs_leds:s0
+/sys/devices/soc.0/78ba000.i2c/i2c-6/6-0045/leds/blue/brightness    u:object_r:sysfs_leds:s0
+
